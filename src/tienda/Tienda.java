@@ -15,7 +15,6 @@ public class Tienda {
         Producto2.cambiarCodigo("K123");
         Producto2.cambiarPrecio(109);
         System.out.println(Producto2.toString());
-        System.out.println("MIRA NINA QUE TE JODAN EL ENUNCIADO NO TIENE SENTIDO");
         
     }
 }
